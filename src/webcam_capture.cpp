@@ -83,7 +83,7 @@ int main (int argc, char *argv[]) {
         
 				image.at<cv::Vec3b>(y, x) = 0;
 				
-    		}
+    			}
 		}
 
 		//Show image in a window
